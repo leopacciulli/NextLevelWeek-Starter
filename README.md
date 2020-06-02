@@ -10,8 +10,6 @@
 
 <h2 align="center">🚧 In Development 🚧</h2>
 
----
-
 <h3 align="center">
   Next Level Week - Starter Edition
 </h3>
