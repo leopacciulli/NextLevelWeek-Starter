@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="NLW" src="./assets/background.jpg" width="400px" />
+  <img alt="NLW" src="./public/assets/background.jpg" width="400px" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/logo.svg" width="250px">
+  <img src="./public/assets/logo.svg" width="250px">
 </div>
 
 <h2 align="center">🚧 In Development 🚧</h2>
