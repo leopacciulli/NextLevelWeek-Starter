@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="./public/assets/logo.svg" width="150px">
-</div>
-
-<br>
-
-<div align="center">
-  <img alt="NLW" src="./public/assets/eco.png" width="300px" />
+  <img alt="NLW" src="./public/assets/eco.png" width="650px" />
 </div>
 
 <br>
