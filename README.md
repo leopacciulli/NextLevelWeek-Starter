@@ -1,17 +1,17 @@
 <div align="center">
-  <img alt="NLW" src="./public/assets/background.jpg" width="400px" />
+  <img src="./public/assets/logo.svg" width="150px">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./public/assets/logo.svg" width="250px">
+  <img alt="NLW" src="./public/assets/eco.png" width="300px" />
 </div>
 
-<h2 align="center">🚧 In Development 🚧</h2>
+<br>
 
 <h3 align="center">
-  Next Level Week - Starter Edition
+  🚀 Next Level Week - Starter Edition 🚀
 </h3>
 
 <br>
@@ -25,8 +25,9 @@ The platform will provide two areas, the first is for the collecting entity to r
 
 ### 🛠 Technologies
 - HTML
-- CSS
+- CSS (responsive)
 - JavaScript
+- Database sqlite3
 
 <br>
 
@@ -42,7 +43,10 @@ Clone the project: `git clone https://github.com/leopacciulli/NextLevelWeek-Star
 $ cd NextLevelWeek-Starter
 
 # to run the project
-$ open the file index.html
+$ npm start
+
+# to your browser in
+$ http://localhost:3000/
 ````
 
 ---
